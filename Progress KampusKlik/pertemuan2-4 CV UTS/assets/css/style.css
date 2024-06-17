@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Times New Roman';
+    src: url('../fonts/times new roman.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+/* Warna untuk header */
+header {
+    background-color: #007bff; /* Warna biru untuk header */
+    color: #fff; /* Warna teks putih */
+    padding: 10px;
+}
+body {
+    font-family: 'Times New Roman', serif;
+}
